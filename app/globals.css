@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #020617;
+  color: #e5e7eb;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "SF Pro Text", sans-serif;
+}
+
+body {
+  min-height: 100vh;
+}
